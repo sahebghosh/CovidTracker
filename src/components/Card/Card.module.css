@@ -1,0 +1,57 @@
+.myCard{
+    width: 50%;
+    display: flex;
+    margin: 15px auto;
+    padding: 15px;
+    border: 1px solid lightgrey;
+    box-shadow: 5px 5px 5px lightgrey;
+    justify-content: center;
+  }
+
+.container{
+  margin: 30px 0;
+}
+
+.infected{
+  margin: 0 2% !important;
+  border: 1px solid lightgrey;
+  /* border-bottom: 10px solid rgba(0, 0, 255, 0.5);  */
+}
+
+.incolor{
+  background-color: rgba(209,79,105,0.2);
+}
+
+.infont{
+  color: #d14f69;
+}
+
+.recovered{
+  margin: 0 2% !important;
+  border: 1px solid lightgrey;
+  /* border-bottom: 10px solid rgba(0, 255, 0, 0.5); */
+}
+
+.refont{
+  color: #108d90;
+}
+
+.recolor{
+  background-color: rgba(129,255,202,0.3);
+}
+
+.death{
+  margin: 0 2% !important;
+  border: 1px solid lightgrey;
+  /* border-bottom: 10px solid rgba(255, 0, 0, 0.5); */
+}
+
+.decolor{
+background-color: rgba(48,36,45,0.15);
+}
+
+.defont{
+  color: #30242d;
+}
+
+
